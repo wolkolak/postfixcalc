@@ -1,6 +1,6 @@
 # String Expression Calculation
 
-![image](./icon.png)
+![image](.icon.png)
 
 The project can translate infix expressions to postfix(str to tuple with members of different types). 
 And can calculate if needed. 
